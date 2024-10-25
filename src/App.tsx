@@ -9,6 +9,7 @@ const App: React.FC = () => {
   const [isSearching, setIsSearching] = useState<boolean>(true);
 
   const apiKeys: string[] = [
+    'db751b0a05msh95365b14dcde368p12dbd9jsn440b1b8ae7cb',
     '0649dc83c2msh88ac949854b30c2p1f2fe8jsn871589450eb3',
     '0e88d5d689msh145371e9bc7d2d8p17eebejsn8ff825d6291f',
     'ea7a66dfaemshecacaabadeedebbp17b247jsn7966d78a3945',
